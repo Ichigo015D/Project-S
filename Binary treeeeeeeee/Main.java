@@ -6,8 +6,8 @@ public class Main {
         NodoAlberoBinario kanan = new NodoAlberoBinario(new Tipo(15));
 
 
-        root.setLeftChild(kiri);
-        root.setRightChild(kanan);
+        root.setLeftChild(sinistra);
+        root.setRightChild(destra);
 
 
         AlberoBinario albero = new AlberoBinario();
