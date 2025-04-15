@@ -1,4 +1,4 @@
-public class Tipo {
+public class Tipo { // devo fare anche questo clase, perchè se no non funziona :(
     private int valore;
 
     public Tipo(int valore) {
