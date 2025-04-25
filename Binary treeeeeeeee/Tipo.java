@@ -1,4 +1,4 @@
-public class Tipo { // devo fare anche questo clase, perchè se no non funziona tipo nel main 
+public class Tipo { // devo fare anche questo clase, perchè se no non funziona tipo nel Alberobinario
     private int valore;
 
     public Tipo(int valore) {
