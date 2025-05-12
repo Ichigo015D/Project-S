@@ -17,6 +17,6 @@ public class main {
         albero.vistaDifferita(albero.getRadice());
 
         System.out.println("Ricerca 5: " + albero.ricerca(5));   // true
-        System.out.println("Ricerca 20: " + albero.ricerca(20)); // false
+        System.out.println("Ricerca 20: " + albero.ricerca(20)); // false.
     }
 }
